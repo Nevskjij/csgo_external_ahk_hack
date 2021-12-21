@@ -1,5 +1,6 @@
 # This hack was originally made by worse-666
-https://github.com/worse-666 
+https://github.com/worse-666
+
 I only modified the code to make the hack more optimal.
 
 # csgo_external_ahk
