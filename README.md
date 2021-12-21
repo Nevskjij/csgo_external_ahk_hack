@@ -20,12 +20,12 @@ This cheat uses [hazedumper](https://github.com/frk1/hazedumper) offset.
 * ~Remove Hands~
 * ~Remove View Punch~
 * Radar reveal
-* Force Crosshair
+* ~Force Crosshair~
 * ~Grenade Prediction~
 * ~Disable Post-Processing~
 * ~Bullet Impacts~
 * ~Fullbright~
-* -Spin bot on main menu-
+* ~Spin bot on main menu~
 
 ### misc
 * Auto Bhop
