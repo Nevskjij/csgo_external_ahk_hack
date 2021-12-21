@@ -25,7 +25,7 @@ This cheat uses [hazedumper](https://github.com/frk1/hazedumper) offset.
 * ~Disable Post-Processing~
 * ~Bullet Impacts~
 * ~Fullbright~
-* Spin bot on main menu
+* -Spin bot on main menu-
 
 ### misc
 * Auto Bhop
@@ -72,5 +72,12 @@ This cheat uses [hazedumper](https://github.com/frk1/hazedumper) offset.
 ### 1.2.2
 * Fix RCS
 
+### 1.2.3
+* Improved GUI
+* Now has a config file
+* Less useless code
+
+* Release only:
+* Removes the need of AHK.
 
 
